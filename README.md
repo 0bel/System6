@@ -1,2 +1,2 @@
 # System6
-A game
+A game.
